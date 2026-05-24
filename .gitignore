@@ -1,0 +1,17 @@
+# Local-only drafts
+010-pm-ai-course-pm-version.md
+
+# Local Obsidian vault config
+.obsidian/
+
+# Workshop is its own repo (museReed/claude-code-workshop)
+claude-code-workshop/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Local agent skill machinery
+.agents/
+skills-lock.json
