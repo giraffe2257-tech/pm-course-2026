@@ -56,6 +56,8 @@ Good, I have a clear sense of the style. Now let me write the script.
 
 你今天經歷的那個「試了不對 → 修改 → 再試 → 越來越好」的過程——那個就是真正的能力。你帶走的是這個能力，不是任何一段特定的 prompt。
 
+小紅書上有個人在寫「100 天 Claude 最佳實踐」系列，他總結了六條心得，其中一條我特別認同——他說 AI 不是用來替代你的，是陪你成長的。你每次跟它協作，你自己的思考也在進步。所以不要追求「一句 prompt 搞定」，追求的是你跟 AI 之間的協作越來越順。
+
 ---
 
 ## 資源清單（2 min）
@@ -74,11 +76,17 @@ Good, I have a clear sense of the style. Now let me write the script.
 
 **第三，社群。** GitHub 上面有 Claude Code 的 repository，issues 頁面是個寶藏。很多人在上面分享 use case、報告 bug、討論 best practice。另外 Reddit 的 r/ClaudeAI 也很活躍。
 
-**第四，練習路徑。** 我的建議是，今天回去之後，先用你自己真實的學術任務試一次。不要想太大——就拿你下週要交的一個 assignment，看看有哪一部分 Claude Code 可以幫上忙。用真實的任務練，進步最快。
+**第四，練習路徑。** 我給你三個階段，看你有多少時間：
+
+如果你只有**一個週末**——有個 YouTuber Ali Abdaal 分享過他怎麼用一個週末掌握 Claude Code 的。核心就是「邊做邊學」：找一個你真正想解決的問題，直接用 AI 動手做。不要先看教程，先做，卡住了再查。他管這個叫 AI 飛輪——你做得越多，AI 理解你越多，你的效率越高。
+
+如果你有**一兩週**——Matt Pocock 有一個免費的學習路線叫「AI Coding for Real Engineers」，雖然名字裡有 Engineers，但內容是通用的。六個階段：打地基、基礎 Agent、專案理解、規劃、反饋循環、人機協作。有人整理了對應的免費資源，說可以覆蓋九成的內容。
+
+如果你想**系統學習**——MIT 發布了 7 門免費的 AI 課程，從入門到深度學習都有。不需要付費。但這個是長期投入，適合你假期有空的時候慢慢啃。
 
 [停頓]
 
-然後如果你想進階，回去翻一下我們今天提到的幾個概念：CLAUDE.md、Agentic Workflow、Multi-file Editing。你不需要一次全學會——先從 CLAUDE.md 開始，因為它最簡單也最實用。寫一份你自己的 CLAUDE.md，告訴 AI 你是做什麼研究的、你偏好什麼寫作風格、你的資料在哪裡。光這一步就能讓你的效率提升很多。
+然後不管你選哪條路，有一件事我建議你今天回去就做——寫一份你自己的 CLAUDE.md。告訴 AI 你是做什麼研究的、你偏好什麼寫作風格、你的資料在哪裡。有個人說得很好：Claude Code 的成功關鍵不在 prompt 寫得多好，而在你的 repo 結構設計得多清楚。CLAUDE.md 就是那個結構的起點。光這一步就能讓你的效率提升很多。
 
 ---
 
@@ -119,6 +127,8 @@ Good, I have a clear sense of the style. Now let me write the script.
 **你今天已經會用 AI 了。** 不是理論上的「知道 AI 很厲害」，而是你真的坐在這裡、打開終端、下了 prompt、拿到了結果、做了判斷。這件事你已經做過一次了。第二次會更快，第三次會更自然。
 
 你不需要變成工程師。你只需要繼續做你今天做的事——帶著好奇心去試，帶著判斷力去用。
+
+Google 的研發總監 Addy Osmani 最近說了一句話：未來的工程師需要證明「我加上 AI」能立刻交付價值。這句話對你們也一樣——不管你未來做什麼職位，「你 + AI」能做到什麼，就是你的競爭力。今天是第一步。
 
 好，最後一頁投影片是 Academic Integrity 的提醒，讓我們一起看一下。
 
