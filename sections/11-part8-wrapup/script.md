@@ -1,5 +1,3 @@
-Good, I have a clear sense of the style. Now let me write the script.
-
 # Part 8 · 講師逐字稿 — Wrap-up & Demo（10 min）
 
 ---

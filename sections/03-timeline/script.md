@@ -1,5 +1,3 @@
-Now I have a good understanding of the style. Let me write the script for the Schedule section.
-
 # Schedule — 170 分鐘課程流程｜講師逐字稿
 
 ---
